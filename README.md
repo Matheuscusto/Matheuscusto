@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0066ff,100:00bfff&height=200&section=header&text=Matheus%20de%20Oliveira%20Silva&fontSize=34&fontColor=ffffff&fontAlignY=35&desc=Ciência%20da%20Computação%20%7C%20Dados%20%7C%20Tecnologia&descAlignY=58&descSize=17" width="100%"/>
 
-# 👋 Olá, eu sou Matheus
+
 
 <a href="https://github.com/Matheuscusto">
   <img src="https://img.shields.io/badge/GitHub-Matheuscusto-050505?style=for-the-badge&logo=github&logoColor=white" />
