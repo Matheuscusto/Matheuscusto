@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Interessado+em+Dados+e+Tecnologia;SQL+%7C+Power+BI+%7C+Python+%7C+Git;Transformando+dados+em+informação" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Construindo+carreira+em+Dados;SQL+%7C+Power+BI+%7C+Python+%7C+Git;Transformando+dados+em+informação" />
 
 </div>
 
@@ -21,22 +21,50 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Bacharelado em Ciência da Computação**, atualmente cursando minha graduação na **Estácio de Sá de Vitória — Jardim Camburi/ES**.
+Sou estudante de **Bacharelado em Ciência da Computação** na **Estácio de Sá — Jardim Camburi/ES**.
 
-Tenho interesse em **análise de dados, tecnologia e desenvolvimento de soluções orientadas por dados**.
+Tenho interesse principalmente em **Dados, Business Intelligence e Tecnologia**, buscando desenvolver uma base sólida tanto em programação quanto em análise e manipulação de dados.
 
-Atualmente venho desenvolvendo conhecimentos em programação, bancos de dados, Business Intelligence e ferramentas para análise e visualização de informações.
+Atualmente, venho aprofundando meus conhecimentos em **SQL, bancos de dados relacionais, Excel, Power BI, Power Query, DAX, Python e Git/GitHub**, além de estudar fundamentos de programação e desenvolvimento web.
 
-Meu objetivo é continuar ampliando meus conhecimentos técnicos, desenvolver experiência profissional e contribuir com soluções que gerem resultados.
+Meu objetivo é transformar conhecimento técnico em **soluções práticas**, utilizando dados para gerar informações úteis, apoiar decisões e resolver problemas reais.
 
 ---
 
 ## 🎯 Atualmente focado em
 
 ```text
-📊 Análise de Dados
-🗄️ Bancos de Dados
-📈 Business Intelligence
-💻 Programação
+📊 Análise e tratamento de dados
+🗄️ SQL e Bancos de Dados Relacionais
+📈 Power BI, Power Query e DAX
+🐍 Python e Pandas
+📑 Excel Avançado
+💻 Lógica de Programação
 🌐 Desenvolvimento Web
-🔧 Git & GitHub
+🔧 Git e GitHub
+```
+
+---
+
+## 🚀 O que estou buscando desenvolver
+
+* Construção de **dashboards e indicadores**
+* Análise e tratamento de dados
+* Consultas e modelagem de bancos de dados
+* Automação de tarefas relacionadas a dados
+* Desenvolvimento de projetos utilizando programação
+* Integração entre diferentes ferramentas e fontes de dados
+* Boas práticas de versionamento com Git/GitHub
+
+---
+
+## 📚 Atualmente estudando
+
+**Ciência da Computação**
+Estácio de Sá — Jardim Camburi/ES
+
+**Principais áreas de estudo:**
+
+`SQL` · `Power BI` · `DAX` · `Power Query` · `Excel` · `Python` · `Pandas` · `JavaScript` · `Git` · `GitHub` · `MySQL`
+
+</div>
